@@ -1,0 +1,15 @@
+{
+  "name": "SLHubCloud",
+  "short_name": "SLHubCloud",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07111E",
+  "theme_color": "#07111E",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
